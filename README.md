@@ -16,7 +16,7 @@ A aplicação é um CRUD sem autenticação (não necessita usuários). Deve ser
 - Listar os planos de voo já existentes
 - (Opcional) Filtrar os planos de voo por aeródromos de origem e/ou destino
 
-A aplicação poderá ser um WinForms ou Web, será um diferencial caso seja entregue uma aplicação Web dividida entre backend e front-end com o seguinte Stack:
+A aplicação poderá ser um WinForms ou Web, caso a sua escolha seja por fazer um projeto WEB, o stack a seguir será um diferencial:
 
 #### Backend
 - WebApi2
