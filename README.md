@@ -39,7 +39,7 @@ Caso a sua escolha seja por fazer um projeto WEB, o stack a seguir será um dife
 ## Esperamos que você:
 - Crie uma aplicação testável e escalável
 - Crie um código organizado
-- Crie um código de fácil manutenabilidade
+- Crie um código de fácil manutenção
 
 ## Ganhe pontos extras por:
 - Escrever testes unitários
