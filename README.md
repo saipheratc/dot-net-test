@@ -1,7 +1,7 @@
 # Teste para candidatos à vaga de Analista Programador .NET
 
 ## Objetivo do Teste
-Criar uma aplicação implemente um CRUD de planos de voo.
+Criar uma aplicação que implemente um CRUD de planos de voo.
 O plano de voo contém as seguintes características:
 - Número do Voo (TAM1234, AZU2222, TAP3333, etc).
 - Matrícula da Aeronave (PT-1234, PR-3333, etc).
