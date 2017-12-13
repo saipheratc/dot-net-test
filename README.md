@@ -48,7 +48,7 @@ Caso a sua escolha seja por fazer um projeto WEB, o stack a seguir será um dife
 - Em caso de escolha da aplicação WEB, será um diferencial que a WebApi seja REST
 
 ## Submissão
-Após a realização do teste, por e-mail o link do repositório onde está seu código e um how-to de como rodar sua aplicação.
+Após a realização do teste, envie por e-mail o link do repositório onde está seu código e um how-to de como rodar sua aplicação.
 
 
 
