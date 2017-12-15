@@ -30,7 +30,7 @@ Caso a sua escolha seja por fazer um projeto WEB, o stack a seguir será um dife
 - WebApi2
 - Ioc Container (Ninject, AutoFac, ...)
 - ORM (Entity Framework, Dapper, ...)
-- Bando de Dados SQL Server 2008+
+- Banco de Dados SQL Server 2008+
 
 #### Frontend
 - AngularJs 1
