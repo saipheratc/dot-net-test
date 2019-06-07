@@ -16,16 +16,6 @@ A aplicação é um CRUD sem autenticação (não necessita usuários). Deve ser
 - Listar os planos de voo já existentes
 - (Opcional) Filtrar os planos de voo por aeroporto de origem e/ou destino
 
-A aplicação poderá ser um WinForms ou Web
-
-#### WinForms
-- .Net Framework 4.6+
-- Ioc Container (Ninject, AutoFac, ...)
-- ORM (Entity Framework, Dapper, ...)
-- Bando de Dados SQL Server 2008+
-
-Caso a sua escolha seja por fazer um projeto WEB, o stack a seguir será um diferencial:
-
 #### Backend
 - WebApi2
 - Ioc Container (Ninject, AutoFac, ...)
