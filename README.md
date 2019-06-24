@@ -14,7 +14,7 @@ O plano de voo contém as seguintes características:
 A aplicação é um CRUD sem autenticação (não necessita usuários). Deve ser possível:
 - Inserir, Apagar, Editar planos de voo
 - Listar os planos de voo já existentes
-- (Opcional) Filtrar os planos de voo por aeroporto de origem e/ou destino
+- Filtrar os planos de voo por aeroporto de origem e/ou destino
 
 #### Backend
 - WebApi2
