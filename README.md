@@ -23,28 +23,7 @@ A aplicação é um CRUD sem autenticação (não necessita usuários). Deve ser
 - Banco de Dados SQL Server 2008+
 
 #### Frontend
-- AngularJs 1
-(Não se preocupe, não iremos avaliar seu código HTML/CSS, o importante aqui será o seu código Javascript)
-
-## Esperamos que você:
-- Crie uma aplicação testável e escalável
-- Crie um código organizado
-- Crie um código de fácil manutenção
-
-## Ganhe pontos extras por:
-- Escrever testes unitários
-- Utilizar TDD ao longo do desenvolvimento
-- Seguir os princípios SOLID
-- Em caso de escolha da aplicação WEB, será um diferencial que a WebApi seja REST
+- Angular
 
 ## Submissão
 Após a realização do teste, compacte o projeto completo e envie por e-mail o link para download do mesmo, bem como um how-to de como rodar sua aplicação.
-
-
-
-
-
-
-
-
-
