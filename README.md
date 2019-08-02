@@ -16,14 +16,26 @@ A aplicação é um CRUD sem autenticação (não necessita usuários). Deve ser
 - Listar os planos de voo já existentes
 - Filtrar os planos de voo por aeroporto de origem e/ou destino
 
+#### Frontend
+- Angular
+
 #### Backend
 - WebApi2
 - Ioc Container (Ninject, AutoFac, ...)
 - ORM (Entity Framework, Dapper, ...)
-- Banco de Dados SQL Server 2008+
+- Banco de Dados SQL Server
 
-#### Frontend
-- Angular
+## Esperamos que você:
+- Crie uma aplicação testável e escalável
+- Crie um código organizado
+- Crie um código de fácil manutenção
+
+## Ganhe pontos extras por:
+- Escrever testes unitários
+- Utilizar TDD ao longo do desenvolvimento
+- Seguir os princípios SOLID
 
 ## Submissão
-Após a realização do teste, compacte o projeto completo e envie por e-mail o link para download do mesmo, bem como um how-to de como rodar sua aplicação.
+Após a realização do teste:
+- Compacte o projeto completo e envie por e-mail o link para download do mesmo;
+- Fornecer também um how-to de como rodar sua aplicação;
