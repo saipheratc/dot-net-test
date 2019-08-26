@@ -13,27 +13,21 @@ O plano de voo contém as seguintes características:
 
 A aplicação é um CRUD sem autenticação (não necessita usuários). Deve ser possível:
 - Inserir, Apagar, Editar planos de voo
-- Listar os planos de voo já existentes
-- Filtrar os planos de voo por aeroporto de origem e/ou destino
+- Listar os planos de voo existentes
 
 #### Frontend
 - Angular
 
 #### Backend
 - WebApi2
+- Banco de Dados SQL Server
 - Ioc Container (Ninject, AutoFac, ...)
 - ORM (Entity Framework, Dapper, ...)
-- Banco de Dados SQL Server
 
 ## Esperamos que você:
-- Crie uma aplicação testável e escalável
+- Crie uma aplicação testável
 - Crie um código organizado
 - Crie um código de fácil manutenção
-
-## Ganhe pontos extras por:
-- Escrever testes unitários
-- Utilizar TDD ao longo do desenvolvimento
-- Seguir os princípios SOLID
 
 ## Submissão
 Após a realização do teste:
