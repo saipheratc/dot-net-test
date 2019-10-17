@@ -19,7 +19,7 @@ A aplicação é um CRUD sem autenticação (não necessita usuários). Deve ser
 - Angular
 
 #### Backend
-- WebApi2
+- WebApi
 - Banco de Dados SQL Server
 - Ioc Container (Ninject, AutoFac, ...)
 - ORM (Entity Framework, Dapper, ...)
