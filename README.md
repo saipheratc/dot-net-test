@@ -16,7 +16,12 @@ A aplicação é um CRUD sem autenticação (não necessita usuários). Deve ser
 - Listar os planos de voo existentes
 
 #### Frontend
+Preferencialmente:
 - Angular
+
+Alternativamente:
+- Asp.net MVC
+- WinForms
 
 #### Backend
 - WebApi
