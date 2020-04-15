@@ -20,12 +20,18 @@ Preferencialmente:
 - Angular
 
 Alternativamente:
-- Asp.net MVC
+- ASP.net MVC
 - WinForms
 
 #### Backend
-- WebApi
+Preferencialmente:
 - Banco de Dados SQL Server
+- Ioc Container (SimpleInjector)
+- WebApi
+- ADO.net
+- TDD
+
+Alternativamente:
 - Ioc Container (Ninject, AutoFac, ...)
 - ORM (Entity Framework, Dapper, ...)
 
